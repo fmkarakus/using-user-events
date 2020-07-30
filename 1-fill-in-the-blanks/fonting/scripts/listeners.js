@@ -1,1 +1,3 @@
-document.getElementById('user-input').addEventListener('change', __);
+document
+  .getElementById("user-input")
+  .addEventListener("change", editorClassesHandler);
