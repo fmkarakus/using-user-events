@@ -1,1 +1,3 @@
-document.getElementById('__').addEventListener('keyup', __);
+document
+  .getElementById("user-input")
+  .addEventListener("keyup", reverseItHandler);
